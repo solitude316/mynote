@@ -14,7 +14,7 @@ Root CA 是整個公鑰基礎設施 (PKI) 的「信任源頭」。它本質上�
 
 3. 自簽生成 Root CA：
 
-![](D:\MyNote\images\create_ca_flow.png)
+![](/OpenSSL/images/create_ca_flow.png)
 
 #### 1. 製作私鑰
 
